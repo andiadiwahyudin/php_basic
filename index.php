@@ -13,10 +13,10 @@
    <thead>
       <tr>
          <th>NIM</th>
-         <th>NAMA</th>
-         <th>JURUSAN</th>
-         <th>JENIS KELAMIN</th>
-         <th>ALAMAT</th>
+         <th>Nama</th>
+         <th>Jurusan</th>
+         <th>Jenis Kelamin</th>
+         <th>Alamat</th>
       </tr>
    </thead>
   
